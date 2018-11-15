@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/WpfApplication2/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/WpfApplication2/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/WpfApplication2/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfApplication2/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to: Create Bars Using ToolBarControl, MainMenuControl and StatusBarControl
 
 
